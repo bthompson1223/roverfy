@@ -179,7 +179,7 @@ main > section > .button {
 
 #photo-credit-container {
   display: flex;
-  position: absolute;
+  position: relative;
   flex-direction: column;
   align-items: center;
   justify-self: flex-end;
